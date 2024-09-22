@@ -1,0 +1,37 @@
+basic features of CN 
+1) fault taularance - ability to run software if any componenet fail 
+2) scalabale 
+3) quality of service - it should give the preference according to importance (real time (call)  > mail )
+4) security - to attends the CIA 
+
+
+data flow 
+1)simplex  (only in one direction)
+2)half duplex (send both direction but not parallaly)
+3)full dublex (parallaly ) 
+
+### protocol (set of rules for communication)
+
+source ---- encoder ----- transmiter ---- channel --- reciver ----- decoder ---- destination 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
