@@ -17,6 +17,8 @@ source ---- encoder ----- transmiter ---- channel --- reciver ----- decoder ----
 
 OSI (open source interface) is the basic architecture used in networking 
 
+application layer 
+
 
 
 
