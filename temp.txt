@@ -15,7 +15,7 @@ data flow
 source ---- encoder ----- transmiter ---- channel --- reciver ----- decoder ---- destination 
 
 
-
+OSI (open source interface) is the basic architecture used in networking 
 
 
 
